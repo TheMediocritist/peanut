@@ -3,6 +3,7 @@
 #include <sys/ioctl.h>
 #include <sys/mman.h>
 #include <unistd.h>
+#include <string.h>
 
 #include "MiniFB.h"
 
